@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ktelnoy-jaxel 💻
-- 👀 I’m interested in backend engineering 🚀, cognitive psychology 👥, english language 🍿, and board games 🎲
+- 👀 I’m interested in backend engineering 🚀, cognitive psychology 👥, English 🍿, and board games 🎲
 - 🌱 I’m currently learning spring cloud AWS stack
 - 💞️ I’m looking to collaborate on java and spring platforms ☕️ & 🌿
 - 📫 You reach me here on GH 🔫
